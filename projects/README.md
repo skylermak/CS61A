@@ -1,2 +1,1 @@
-#CS 61A Projects
-
+# CS 61A Projects
